@@ -1,0 +1,3 @@
+C:/Users/lechi/CLionProjects/welcome_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lechi/CLionProjects/welcome_c/cmake-build-debug/CMakeFiles/welcome_c.dir
+C:/Users/lechi/CLionProjects/welcome_c/cmake-build-debug/CMakeFiles/edit_cache.dir
